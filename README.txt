@@ -1,4 +1,16 @@
+This template is designed and developed by FreeHTML5.co.
+Template in di desain dan dikembangkan oleh FreeHTML5.co.
 
+
+
+
+Projek Pemrograman Web 2023
+Shalahuddin Abdul Aziz
+2117051083
+Kelas A
+
+
+//Original Readme
 TITLE: 
 24 News - 100% Fully Responsive Free HTML5 Bootstrap Template
 
