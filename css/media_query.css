@@ -43,11 +43,11 @@
 .fh5co_padd_mediya {
 	padding-top: 0px;
 }
-.navbar-light .navbar-nav .open > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.open, .navbar-light .navbar-nav .nav-link.active {
+.navbar-dark .navbar-nav .open > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.open, .navbar-dark .navbar-nav .nav-link.active {
 	-webkit-clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%)!important;
 	clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%)!important;
 }
-.navbar-light .navbar-nav .nav-link {
+.navbar-dark .navbar-nav .nav-link {
 	-webkit-clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%)!important;
 	clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%)!important;
 }
@@ -174,11 +174,11 @@
 	margin-left: 20px;
 	padding-bottom: 10px;
 }
-.navbar-light .navbar-nav .open > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.open, .navbar-light .navbar-nav .nav-link.active {
+.navbar-dark .navbar-nav .open > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.open, .navbar-dark .navbar-nav .nav-link.active {
 	-webkit-clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%)!important;
 	clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%)!important;
 }
-.navbar-light .navbar-nav .nav-link {
+.navbar-dark .navbar-nav .nav-link {
 	-webkit-clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%)!important;
 	clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%)!important;
 }
@@ -199,11 +199,11 @@
 	margin-left: 20px;
 	padding-bottom: 10px;
 }
-.navbar-light .navbar-nav .open > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.open, .navbar-light .navbar-nav .nav-link.active {
+.navbar-dark .navbar-nav .open > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.open, .navbar-dark .navbar-nav .nav-link.active {
 	-webkit-clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%)!important;
 	clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%)!important;
 }
-.navbar-light .navbar-nav .nav-link {
+.navbar-dark .navbar-nav .nav-link {
 	-webkit-clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%)!important;
 	clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%)!important;
 }

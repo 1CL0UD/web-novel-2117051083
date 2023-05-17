@@ -99,10 +99,10 @@ a:hover {
     top: -10px
 }
 
-.navbar-light .navbar-nav .open>.nav-link,
-.navbar-light .navbar-nav .active>.nav-link,
-.navbar-light .navbar-nav .nav-link.open,
-.navbar-light .navbar-nav .nav-link.active {
+.navbar-dark .navbar-nav .open>.nav-link,
+.navbar-dark .navbar-nav .active>.nav-link,
+.navbar-dark .navbar-nav .nav-link.open,
+.navbar-dark .navbar-nav .nav-link.active {
     color: #fff !important;
     padding-top: 12px !important;
     padding-bottom: 15px !important;
@@ -121,8 +121,8 @@ a:hover {
     clip-path: polygon(100% 0, 100% 85%, 14% 85%, 0 100%, 0% 60%, 0 0)
 }
 
-.navbar-light .navbar-nav .nav-link {
-    color: #222 !important;
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff !important;
     padding-top: 12px !important;
     padding-bottom: 15px !important;
     padding-left: 20px !important;
@@ -140,8 +140,8 @@ a:hover {
     clip-path: polygon(100% 0, 100% 85%, 14% 85%, 0 100%, 0% 60%, 0 0)
 }
 
-.navbar-light .navbar-nav .nav-link:focus,
-.navbar-light .navbar-nav .nav-link:hover {
+.navbar-dark .navbar-nav .nav-link:focus,
+.navbar-dark .navbar-nav .nav-link:hover {
     background: #FB2576 !important;
     color: #fff !important;
     padding-top: 12px !important;
@@ -161,7 +161,7 @@ a:hover {
 }
 
 .fh5co_padd_mediya {
-    padding-top: 10px
+    padding-top: 10px;
 }
 
 .fh5co_suceefh5co_height {
