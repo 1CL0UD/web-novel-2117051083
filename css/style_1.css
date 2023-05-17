@@ -105,7 +105,7 @@ a:hover {
 .navbar-dark .navbar-nav .nav-link.active {
     color: #fff !important;
     padding-top: 12px !important;
-    padding-bottom: 15px !important;
+    padding-bottom: 12px !important;
     padding-left: 20px !important;
     padding-right: 20px !important;
     margin: 0 20px !important;
@@ -115,16 +115,16 @@ a:hover {
     -ms-transition: all .5s ease;
     transition: all .5s ease;
     background: #FB2576 !important;
-    -webkit-clip-path: polygon(100% 0, 100% 85%, 14% 85%, 0 100%, 0% 60%, 0 0);
+    /* -webkit-clip-path: polygon(100% 0, 100% 85%, 14% 85%, 0 100%, 0% 60%, 0 0);
     -moz-clip-path: polygon(100% 0, 100% 85%, 14% 85%, 0 100%, 0% 60%, 0 0);
     -ms-clip-path: polygon(100% 0, 100% 85%, 14% 85%, 0 100%, 0% 60%, 0 0);
-    clip-path: polygon(100% 0, 100% 85%, 14% 85%, 0 100%, 0% 60%, 0 0)
+    clip-path: polygon(100% 0, 100% 85%, 14% 85%, 0 100%, 0% 60%, 0 0) */
 }
 
 .navbar-dark .navbar-nav .nav-link {
     color: #fff !important;
     padding-top: 12px !important;
-    padding-bottom: 15px !important;
+    padding-bottom: 12px !important;
     padding-left: 20px !important;
     padding-right: 20px !important;
     margin: 0 20px !important;
@@ -134,10 +134,10 @@ a:hover {
     -ms-transition: all .5s ease;
     transition: all .5s ease;
     position: relative !important;
-    -webkit-clip-path: polygon(100% 0, 100% 85%, 14% 85%, 0 100%, 0% 60%, 0 0);
+    /* -webkit-clip-path: polygon(100% 0, 100% 85%, 14% 85%, 0 100%, 0% 60%, 0 0);
     -moz-clip-path: polygon(100% 0, 100% 85%, 14% 85%, 0 100%, 0% 60%, 0 0);
     -ms-clip-path: polygon(100% 0, 100% 85%, 14% 85%, 0 100%, 0% 60%, 0 0);
-    clip-path: polygon(100% 0, 100% 85%, 14% 85%, 0 100%, 0% 60%, 0 0)
+    clip-path: polygon(100% 0, 100% 85%, 14% 85%, 0 100%, 0% 60%, 0 0) */
 }
 
 .navbar-dark .navbar-nav .nav-link:focus,
