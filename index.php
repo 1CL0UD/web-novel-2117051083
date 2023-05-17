@@ -56,7 +56,7 @@
         </div>
       </div>
     </div>
-    <div class="container-fluid">
+    <div class="container-fluid bg-dark">
       <div class="container">
         <div class="row">
           <div class="col-12 col-md-3 fh5co_padding_menu">
@@ -66,21 +66,21 @@
             <div class="text-center d-inline-block">
               <a class="fh5co_display_table">
                 <div class="fh5co_verticle_middle">
-                  <i class="fa fa-search"></i>
+                  <i class="fa fa-search text-white"></i>
                 </div>
               </a>
             </div>
             <div class="text-center d-inline-block">
               <a class="fh5co_display_table">
                 <div class="fh5co_verticle_middle">
-                  <i class="fa fa-linkedin"></i>
+                  <i class="fa fa-linkedin text-white"></i>
                 </div>
               </a>
             </div>
             <div class="text-center d-inline-block">
               <a class="fh5co_display_table">
                 <div class="fh5co_verticle_middle">
-                  <i class="fa fa-google-plus"></i>
+                  <i class="fa fa-youtube text-white"></i>
                 </div>
               </a>
             </div>
@@ -91,7 +91,7 @@
                 class="fh5co_display_table"
               >
                 <div class="fh5co_verticle_middle">
-                  <i class="fa fa-twitter"></i>
+                  <i class="fa fa-twitter text-white"></i>
                 </div>
               </a>
             </div>
@@ -102,7 +102,7 @@
                 class="fh5co_display_table"
               >
                 <div class="fh5co_verticle_middle">
-                  <i class="fa fa-facebook"></i>
+                  <i class="fa fa-facebook text-white"></i>
                 </div>
               </a>
             </div>
