@@ -36,7 +36,7 @@
   </head>
 
   <body>
-    <div class="container-fluid fh5co_header_bg">
+    <div class="container-fluid bg-dark">
       <div class="container">
         <div class="row">
           <div class="col-12 fh5co_mediya_center">
@@ -107,22 +107,23 @@
               </a>
             </div>
             <!--<div class="d-inline-block text-center"><img src="images/country.png" alt="img" class="fh5co_country_width"/></div>-->
-            <div class="d-inline-block text-center dd_position_relative">
+            <!-- <div class="d-inline-block text-center dd_position_relative">
               <select class="form-control fh5co_text_select_option">
                 <option>English</option>
                 <option>French</option>
                 <option>German</option>
                 <option>Spanish</option>
               </select>
-            </div>
+            </div> -->
             <div class="clearfix"></div>
           </div>
         </div>
       </div>
     </div>
-    <div class="container-fluid bg-faded fh5co_padd_mediya padding_786">
+    <div class="container-fluid bg-dark fh5co_padd_mediya padding_786">
       <div class="container padding_786">
-        <nav class="navbar navbar-toggleable-md navbar-light">
+        <nav class="navbar navbar-toggleable-md navbar-dark">
+          <!-- burger menu for mobile view -->
           <button
             class="navbar-toggler navbar-toggler-right mt-3"
             type="button"
